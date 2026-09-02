@@ -1,0 +1,12 @@
+work/
+.nextflow/
+.nextflow.log*
+nxf-tmp*/
+results/
+*.fastq
+*.fastq.gz
+*.bam
+*.bai
+*.sam
+*.vcf
+*.vcf.gz
